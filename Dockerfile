@@ -1,5 +1,5 @@
 # Sample Dockerfile to build an Apache Web Server container image
-FROM centos:7
+FROM centos
 USER default
 MAINTAINER Rajan &lt;rajan@rathinamtrainers.com>
 EXPOSE 8080
